@@ -1,0 +1,1 @@
+D:\Work\GitHub\Source\Repos\Telegram.Export\Telegram.Export.App\Telegram.Export.App.csproj;x86
